@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuja-biradar) (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanujabiradar0010@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuja-biradar)
 
 
 # 💻 Tech Stack:
@@ -30,9 +30,6 @@
 ![](https://streak-stats.demolab.com/?user=Tanuja0010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanuja0010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-[![](https://komarev.com/ghpvc/?username=Tanuja0010&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanuja0010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
