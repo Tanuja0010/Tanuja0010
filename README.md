@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Scalable full-stack apps (React, Node.js, Flask) with ML/NLP integration  
 
 👯 I’m looking to collaborate on: Open-source, AI-driven, and impactful web applications  
@@ -10,10 +10,6 @@
 💬 Ask me about: Java, Python, REST APIs, full-stack development, and NLP  
 
 ⚡ Fun fact: I enjoy turning complex problems into simple, user-centric solutions
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanuja-biradar)
 
 
 # 💻 Tech Stack:
