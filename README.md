@@ -1,5 +1,15 @@
 # 💫 About Me:
-B.Tech Computer Engineering student with strong foundations in DSA, full-stack development, and machine learning. Experienced in building real-world projects. Passionate about problem-solving and developing user-centric applications, aiming to grow as a product-focused software engineer.
+🔭 I’m currently working on: Scalable full-stack apps (React, Node.js, Flask) with ML/NLP integration  
+
+👯 I’m looking to collaborate on: Open-source, AI-driven, and impactful web applications  
+
+🤝 I’m looking for help with: System design, backend scalability, and performance optimization  
+
+🌱 I’m currently learning: Advanced DSA, MongoDB optimization, and distributed systems  
+
+💬 Ask me about: Java, Python, REST APIs, full-stack development, and NLP  
+
+⚡ Fun fact: I enjoy turning complex problems into simple, user-centric solutions
 
 
 ## 🌐 Socials:
