@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Computer Engineering student with strong foundations in DSA, full-stack development, and machine learning. Experienced in building real-world projects using React, Node.js, and Flask. Passionate about problem-solving and developing user-centric applications, aiming to grow as a product-focused software engineer.
+B.Tech Computer Engineering student with strong foundations in DSA, full-stack development, and machine learning. Experienced in building real-world projects. Passionate about problem-solving and developing user-centric applications, aiming to grow as a product-focused software engineer.
 
 
 ## 🌐 Socials:
